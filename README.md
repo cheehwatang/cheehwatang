@@ -22,8 +22,7 @@ As I have just started on this journey, there is so much to learn and having one
 - :hammer_and_wrench: Active daily in [HackerRank](https://www.hackerrank.com/cheehwa_tang) and [LeetCode](https://leetcode.com/cheehwatang/)
 - :dancers: Looking to contribute in open source projects
 - :sunrise_over_mountains: Love being in nature
-- :biking_man: Engaged in endurance sports
-- :open_book: Currently reading "Epictetus - Discourses and Selected Writings"
+- :biking_man: Training for a 10-km swim
 
 </br>
 
