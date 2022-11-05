@@ -19,10 +19,9 @@ As I have just started on this journey, there is so much to learn and having one
 </br>
 
 #### BIO
-- :hammer_and_wrench: Active daily in [HackerRank](https://www.hackerrank.com/cheehwa_tang) and [LeetCode](https://leetcode.com/cheehwatang/)
+- :hammer_and_wrench: Active daily in [HackerRank](https://www.hackerrank.com/cheehwatang) and [LeetCode](https://leetcode.com/cheehwatang/)
 - :dancers: Looking to contribute in open source projects
 - :sunrise_over_mountains: Love being in nature
-- :swimming_man: Training for a 10-km swim
 
 </br>
 
@@ -30,6 +29,6 @@ As I have just started on this journey, there is so much to learn and having one
 
 </br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/cheehwatang?theme=nord)](https://leetcode.com/cheehwatang)
+<a href='https://leetcode.com/cheehwatang/'><img src='https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'></a>
 
 </br>
