@@ -75,7 +75,6 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 <div>
     <h3>CONTACT ME</h3>
-    <p>:envelope:<a href='mailto:cheehwa.tang@gmail.com' target='_blank'>cheehwa.tang@gmail.com</a></p>
     <p>
         <a href='https://twitter.com/cheehwatang' target='_blank'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheehwatang" height="30" width="30" /></a>&nbsp
         <a href='https://www.linkedin.com/in/cheehwatang/' target='_blank'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheehwatang" height="30" width="30" /></a>
