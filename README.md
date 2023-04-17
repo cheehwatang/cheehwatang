@@ -173,14 +173,16 @@ While excited, there is so much to learn and having one quote to keep myself gro
 ![Snake animation](https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg)
 
 <div align='center'>
-<p align="center" dir="auto">
-    <a href='https://git.io/streak-stats'>
-        <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
-    </a>
-    <a href='https://leetcode.com/cheehwatang'>
-        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
-    </a>
-</p>
+    <p align="center" dir="auto">
+        <a href='https://git.io/streak-stats'>
+            <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
+        </a>
+        <a href='https://leetcode.com/cheehwatang'>
+            <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
+        </a>
+    </p>
 </div>
+
+![3D Contribution Profile](./profile-3d-contrib/profile-night-view.svg)
 
 </br>
