@@ -20,7 +20,7 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 </br>
 
-## 👨🏻‍💻 NOW
+## 👨🏻‍💻 What's Happening?
 
 <ul>
     <li> 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live">SoundState</a></li>
@@ -31,6 +31,10 @@ While excited, there is so much to learn and having one quote to keep myself gro
         </a> with <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
     </li>
 </ul>
+
+- Listening to tunes
+
+![Current Spotify Song](https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true)
 
 </br>
 
