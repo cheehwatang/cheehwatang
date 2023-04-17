@@ -10,31 +10,27 @@
 
 </br>
 
-I am a full stack web developer staying in Singapore. </br>
-
-I completed Le Wagon Web Development bootcamp. Now I am learning and building web apps every day!
-
-While excited, there is so much to learn and having one quote to keep myself grounded. </br>
-
-> He who climb the ladder must start at the bottom.
-
 </br>
 
 ## 👨🏻‍💻 What's Happening?
 
-<ul>
-    <li> 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live">SoundState</a></li>
-    <li> 🌱 Learning Node.js & Three.js</li>
-    <li> 🔍 Practicing DSA on 
-        <a href='https://leetcode.com/cheehwatang/'>
-            <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
-        </a> with <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-    </li>
-</ul>
+- 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
+<p></p>
 
-- Listening to tunes
+- 🐣 More Backstory <a href="https://cheehwatang.com/#about" target="_blank" alt="link to about page"><strong>Here</strong></a>
+<p></p>
 
-![Current Spotify Song](https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true)
+- 🌱 Learning **Node.js** & **Three.js**
+<p></p>
+
+- 🔍 Solving <a href="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" alt="link to about page"><strong>LeetCode</strong></a> Challenges
+<p></p>
+
+- 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live"><strong>SoundState</strong></a>
+
+- 🎧 Vibing to Tunes
+
+&emsp;&emsp;&emsp;![Current Spotify Song](https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true)
 
 </br>
 
@@ -126,6 +122,10 @@ While excited, there is so much to learn and having one quote to keep myself gro
         <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
     &emsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    &emsp;
 </p>
 
 ### 👉 Software & Tools
@@ -157,7 +157,7 @@ While excited, there is so much to learn and having one quote to keep myself gro
 <p align="left">
     &emsp;
     <a href="https://cheehwatang.com/" target="_blank">
-        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-%23000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-%2316F8ED?style=for-the-badge&logo=googlechrome&logoColor=black">
     </a>
     &emsp;
     <a href="https://linkedin.com/in/cheehwatang/" target='_blank'>
