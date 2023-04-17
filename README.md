@@ -1,4 +1,12 @@
-<h1 align="center">Hello :wave: I'm <b><em>Chee Hwa</em></b>!</h1>
+<div align='center'>
+    <a href="https://cheehwatang.com/">
+        <img src="https://res.cloudinary.com/dsx50recn/video/upload/c_fill,h_400,w_900/f_auto,fl_animated/e_loop/v1681724926/Portfolio%20Website/portfolio_homepage_video_vgzhkp.gif">
+    </a>
+</div>
+
+</br>
+
+<hr>
 
 </br>
 
@@ -89,7 +97,7 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 <div align='center'>
     <a href='https://leetcode.com/cheehwatang'>
-    <img src='https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'>
     </a>
 </div>
 
