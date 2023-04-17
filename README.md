@@ -174,19 +174,22 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 ## 😎 Cool Stuff
 
-![Snake animation](https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg)
-
 <div align='center'>
-    <p align="center" dir="auto">
-        <a href='https://git.io/streak-stats'>
-            <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
-        </a>
-        <a href='https://leetcode.com/cheehwatang'>
-            <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
-        </a>
-    </p>
+    &emsp;
+    <img src='https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg' alt='Snake animation'>
+    &emsp;
+    <br>
+    &emsp;
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
+    &emsp;
+    <a href='https://leetcode.com/cheehwatang'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
+    </a>
+    &emsp;
+    <br>
+    &emsp;
+    <img src='./profile-3d-contrib/profile-night-view.svg' width='700' alt='3D Contribution Profile'>
+    &emsp;
 </div>
-
-![3D Contribution Profile](./profile-3d-contrib/profile-night-view.svg)
 
 </br>
