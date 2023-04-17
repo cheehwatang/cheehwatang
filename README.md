@@ -172,6 +172,54 @@
 
 </br>
 
+<!-- PROJECTS -->
+
+## 💡 Projects
+
+<div align="left">
+	<table>
+	    <tr>
+            <td width="50%">
+                <h3 align="center"><strong>SoundState</strong></h3>
+                <div align="center">  
+                    <a href='https://www.soundstate.live' target="_blank">
+                        <img src="images/soundstate/soundstate-landing-large.png" alt="soundstate" height="200" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/weepotty/soundstate" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="https://www.soundstate.live" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    <br>
+                    <p>
+                        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white"/>&nbsp;
+                        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+                        <img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
+                        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
+                        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+                        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/>&nbsp;
+                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+                    </p>
+                    <br>
+                    <p>
+                        SoundState is a smart playlist curator that allows you to filter your Spotify library according to your mood, and uses AI to generate a unique image for each playlist, for you to share and discover music that you love.
+                    </p>
+                </div>	
+            </td>
+            <td width="50%"></td>
+        </tr>
+	</table>
+</div>
+
+</br>
+
 ## 😎 Cool Stuff
 
 <div align='center'>
