@@ -10,27 +10,27 @@
 
 </br>
 
-I am a full stack web developer staying in Singapore. </br>
-
-I completed Le Wagon Web Development bootcamp. Now I am learning and building web apps every day!
-
-While excited, there is so much to learn and having one quote to keep myself grounded. </br>
-
-> He who climb the ladder must start at the bottom.
-
 </br>
 
-## 👨🏻‍💻 NOW
+## 👨🏻‍💻 What's Happening?
 
-<ul>
-    <li> 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live">SoundState</a></li>
-    <li> 🌱 Learning Node.js & Three.js</li>
-    <li> 🔍 Practicing DSA on 
-        <a href='https://leetcode.com/cheehwatang/'>
-            <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
-        </a> with <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-    </li>
-</ul>
+- 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
+<p></p>
+
+- 🐣 More Backstory <a href="https://cheehwatang.com/#about" target="_blank" alt="link to about page"><strong>Here</strong></a>
+<p></p>
+
+- 🌱 Learning **Node.js** & **Three.js**
+<p></p>
+
+- 🔍 Solving <a href="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" alt="link to about page"><strong>LeetCode</strong></a> Challenges
+<p></p>
+
+- 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live"><strong>SoundState</strong></a>
+
+- 🎧 Vibing to Tunes
+
+&emsp;&emsp;&emsp;![Current Spotify Song](https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true)
 
 </br>
 
@@ -122,6 +122,10 @@ While excited, there is so much to learn and having one quote to keep myself gro
         <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
     </a>
     &emsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    &emsp;
 </p>
 
 ### 👉 Software & Tools
@@ -153,7 +157,7 @@ While excited, there is so much to learn and having one quote to keep myself gro
 <p align="left">
     &emsp;
     <a href="https://cheehwatang.com/" target="_blank">
-        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-%23000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-%2316F8ED?style=for-the-badge&logo=googlechrome&logoColor=black">
     </a>
     &emsp;
     <a href="https://linkedin.com/in/cheehwatang/" target='_blank'>
@@ -168,21 +172,72 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 </br>
 
-## 😎 Cool Stuff
+<!-- PROJECTS -->
 
-![Snake animation](https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg)
+## 💡 Projects
 
-<div align='center'>
-    <p align="center" dir="auto">
-        <a href='https://git.io/streak-stats'>
-            <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
-        </a>
-        <a href='https://leetcode.com/cheehwatang'>
-            <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
-        </a>
-    </p>
+<div align="left">
+	<table>
+	    <tr>
+            <td width="50%">
+                <h3 align="center"><strong>SoundState</strong></h3>
+                <div align="center">  
+                    <a href='https://www.soundstate.live' target="_blank">
+                        <img src="images/soundstate/soundstate-landing-large.png" alt="soundstate" height="200" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/weepotty/soundstate" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="https://www.soundstate.live" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    <br>
+                    <p>
+                        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white"/>&nbsp;
+                        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+                        <img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
+                        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
+                        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+                        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/>&nbsp;
+                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+                    </p>
+                    <br>
+                    <p>
+                        SoundState is a smart playlist curator that allows you to filter your Spotify library according to your mood, and uses AI to generate a unique image for each playlist, for you to share and discover music that you love.
+                    </p>
+                </div>	
+            </td>
+            <td width="50%"></td>
+        </tr>
+	</table>
 </div>
 
-![3D Contribution Profile](./profile-3d-contrib/profile-night-view.svg)
+</br>
+
+## 😎 Cool Stuff
+
+<div align='center'>
+    &emsp;
+    <img src='https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg' alt='Snake animation'>
+    &emsp;
+    <br>
+    &emsp;
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
+    &emsp;
+    <a href='https://leetcode.com/cheehwatang'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
+    </a>
+    &emsp;
+    <br>
+    &emsp;
+    <img src='./profile-3d-contrib/profile-night-view.svg' width='700' alt='3D Contribution Profile'>
+    &emsp;
+</div>
 
 </br>
