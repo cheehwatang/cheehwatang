@@ -168,9 +168,9 @@ While excited, there is so much to learn and having one quote to keep myself gro
 
 </br>
 
----
+## 😎 Cool Stuff
 
-</br>
+![Snake animation](https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg)
 
 <div align='center'>
 <p align="center" dir="auto">
