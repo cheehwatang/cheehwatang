@@ -23,7 +23,7 @@ While excited, there is so much to learn and having one quote to keep myself gro
 ## 👨🏻‍💻 NOW
 
 <ul>
-    <li> 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live">SoundState</a>; demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160</li>
+    <li> 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live">SoundState</a></li>
     <li> 🌱 Learning Node.js & Three.js</li>
     <li> 🔍 Practicing DSA on 
         <a href='https://leetcode.com/cheehwatang/'>
