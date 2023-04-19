@@ -185,12 +185,14 @@
 	    <tr>
             <td width="50%">
                 <h3 align="center"><strong>SoundState</strong></h3>
-                <div align="center">  
-                    <a href='https://www.soundstate.live' target="_blank">
-                        <img src="images/soundstate/soundstate-landing-large.png" alt="soundstate" height="200" />
-                    </a>
-                    <br>
-                    <br>
+                </br>
+                <div align="center">
+                    <p>  
+                        <a href='https://www.soundstate.live' target="_blank">
+                            <img src="images/soundstate/soundstate-landing-large.png" alt="soundstate" height="200" />
+                        </a>
+                    </p>
+                    </br>
                     <p>
                         <a href="https://github.com/weepotty/soundstate" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -200,21 +202,22 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
 						</a>
                     </p>
-                    <br>
+                    </br>
                     <p>
                         <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white"/>&nbsp;
                         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
                         <img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
                         <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
                         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;
                         <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/>&nbsp;
-                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;
+                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
                     </p>
-                    <br>
+                    </br>
                     <p>
                         SoundState is a smart playlist curator that allows you to filter your Spotify library according to your mood, and uses AI to generate a unique image for each playlist, for you to share and discover music that you love.
                     </p>
+                    </br>
                 </div>	
             </td>
             <td width="50%"></td>
@@ -228,12 +231,21 @@
 
 <div align='center'>
     &emsp;
-    <img src='https://github.com/cheehwatang/cheehwatang/blob/output/github-contribution-snake.svg' alt='Snake animation'>
+    <a href='#gh-dark-mode-only'>
+        <img src='https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only' alt='Snake animation'>
+    </a>
+    <a href='#gh-light-mode-only'>
+        <img src='https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only' alt='Snake animation'>
+    </a>
     &emsp;
-    <br>
+    </br>
     &emsp;
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only' alt='GitHub Streak'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only' alt='GitHub Streak'>
+    <a href='#gh-dark-mode-only'>
+        <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only' alt='GitHub Streak'>
+    </a>
+    <a href='#gh-light-mode-only'>
+        <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only' alt='GitHub Streak'>
+    </a>
     &emsp;
     <a href='https://leetcode.com/cheehwatang#gh-dark-mode-only'>
         <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only' alt='Leetcode Stats'>
@@ -242,7 +254,7 @@
         <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only' alt='Leetcode Stats'>
     </a>
     &emsp;
-    <br>
+    </br>
     &emsp;
     <img src='./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only' width='700' alt='3D Contribution Profile'>
     <img src='./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only' width='700' alt='3D Contribution Profile'>
