@@ -10,8 +10,6 @@
 
 </br>
 
-</br>
-
 ## 👨🏻‍💻 What's Happening?
 
 - 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
@@ -237,6 +235,28 @@
     <br>
     &emsp;
     <img src='./profile-3d-contrib/profile-night-view.svg' width='700' alt='3D Contribution Profile'>
+    &emsp;
+</div>
+
+</br>
+
+## 🔖 Pinned Repo
+
+<div align='center'>
+    &emsp;
+    <a href='https://github.com/weepotty/soundstate#gh-dark-mode-only' target='_blank'>
+        <img src='https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only' alt='SoundState Repo'>
+    </a>
+    <a href='https://github.com/weepotty/soundstate#gh-light-mode-only' target='_blank'>
+        <img src='https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only' alt='SoundState Repo'>
+    </a>
+    &emsp;
+    <a href='https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only' target='_blank'>
+        <img src='https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only' alt='LeetCode Java Repo'>
+    </a>
+    <a href='https://github.com/cheehwatang/leetcode-java#gh-light-mode-only' target='_blank'>
+        <img src='https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only' alt='LeetCode Java Repo'>
+    </a>
     &emsp;
 </div>
 
