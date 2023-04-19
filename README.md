@@ -27,9 +27,15 @@
 - 💻 Working on <a href="https://www.soundstate.live" target="_blank" alt="link to SoundState.live"><strong>SoundState</strong></a>
 
 - 🎧 Vibing to Tunes
-
-&emsp;&emsp;&emsp;![Current Spotify Song](https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true)
-
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://open.spotify.com/user/12136120750#gh-dark-mode-only" target="_blank"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
+    </a>
+    <a href="https://open.spotify.com/user/12136120750#gh-light-mode-only" target="_blank"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
+    </a>
+</div>
 </br>
 
 ## 🧰 My Toolbox
@@ -226,15 +232,20 @@
     &emsp;
     <br>
     &emsp;
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=algolia&date_format=j%20M%5B%20Y%5D' alt='GitHub Streak'>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only' alt='GitHub Streak'>
+    <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only' alt='GitHub Streak'>
     &emsp;
-    <a href='https://leetcode.com/cheehwatang'>
-        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
+    <a href='https://leetcode.com/cheehwatang#gh-dark-mode-only'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only' alt='Leetcode Stats'>
+    </a>
+    <a href='https://leetcode.com/cheehwatang#gh-light-mode-only'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only' alt='Leetcode Stats'>
     </a>
     &emsp;
     <br>
     &emsp;
-    <img src='./profile-3d-contrib/profile-night-view.svg' width='700' alt='3D Contribution Profile'>
+    <img src='./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only' width='700' alt='3D Contribution Profile'>
+    <img src='./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only' width='700' alt='3D Contribution Profile'>
     &emsp;
 </div>
 
