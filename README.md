@@ -245,11 +245,8 @@
         <img src='https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only' alt='GitHub Streak'>
     </a>
     <!-- LeetCode Stats -->
-    <a href='https://leetcode.com/cheehwatang#gh-dark-mode-only' target='_blank'>
-        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only' alt='Leetcode Stats'>
-    </a>
-    <a href='https://leetcode.com/cheehwatang#gh-light-mode-only' target='_blank'>
-        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only' alt='Leetcode Stats'>
+    <a href='https://leetcode.com/cheehwatang' target='_blank'>
+        <img src='https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn' alt='Leetcode Stats'>
     </a>
     <!-- Github Contribution 3D Profile -->
     <img src='./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only' width='700' alt='3D Contribution Profile'>
@@ -258,7 +255,7 @@
 
 </br>
 
-## 🔖 Pinned Repo
+## 🔖 Featured Repository
 
 <div align='center'>
     <!-- SoundState Repo -->
