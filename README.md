@@ -8,8 +8,6 @@
 
 <hr>
 
-</br>
-
 ## 👨🏻‍💻 What's Happening?
 
 - 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
@@ -341,5 +339,13 @@
         </a>
     </li>
 </ul>
+
+</br>
+
+## 🙏 Final Words
+
+<p>Thank you very much for reading until here 😊</p>
+<p>If you like this README, feel free to fork the repo for your reference. Of course, give proper credits to the contributors who made this possible.</p>
+<p>Bye and have a blast! 👋</p>
 
 </br>
