@@ -212,10 +212,10 @@ From: 13 April 2023 - To: 20 April 2023
 
 Total Time: 6 hrs 27 mins
 
-JavaScript   3 hrs 52 mins   ██████████████▒░░░░░░░░░░   56.91 %
-Markdown     1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-ERB          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+JavaScript   3 hrs 52 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.91 %
+Markdown     1 hr 20 mins    ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.64 %
+ERB          28 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.88 %
+Other        20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.03 %
 ```
 
 <!--END_SECTION:waka-->
