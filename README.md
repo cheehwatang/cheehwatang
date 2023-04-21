@@ -270,6 +270,14 @@ Other        20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </a>
     </li>
     <li>
+        <a href="https://github.com/athul/waka-readme">
+            <img src="https://img.shields.io/badge/Wakatime Dev Metrics-000000?style=flat-square&logo=wakatime&logoColor=white"/>
+        </a>
+        <a href="https://github.com/athul">
+            <img src="https://img.shields.io/badge/by-@athul-181717?style=flat-square"/>
+        </a>
+    </li>
+    <li>
         <a href="https://github.com/Platane/snk">
             <img src="https://img.shields.io/badge/Github Contribution Snake Animation-3c7dd9?style=flat-square"/>
         </a>
