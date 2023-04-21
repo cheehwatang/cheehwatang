@@ -182,6 +182,27 @@
 
 </br>
 
+## 🔖 Featured Repository
+
+<div align="center">
+    <!-- SoundState Repo -->
+    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only" alt="SoundState Repo">
+    </a>
+    <!-- LeetCode Java Repo -->
+    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
+    </a>
+</div>
+
+</br>
+
 ## 😎 Cool Stuff
 
 <div align="center">
@@ -202,27 +223,6 @@
     <!-- Github Contribution 3D Profile -->
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
-</div>
-
-</br>
-
-## 🔖 Featured Repository
-
-<div align="center">
-    <!-- SoundState Repo -->
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only" alt="SoundState Repo">
-    </a>
-    <!-- LeetCode Java Repo -->
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only" alt="LeetCode Java Repo">
-    </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
-    </a>
 </div>
 
 </br>
@@ -298,6 +298,6 @@
 
 <p>Thank you very much for reading until here 😊</p>
 <p>If you like this README, feel free to fork the repo for your reference. Of course, give proper credits to the contributors who made this possible.</p>
-<p>Bye and have a blast! 👋</p>
+<p>Have a blast! 🚀</p>
 
 </br>
