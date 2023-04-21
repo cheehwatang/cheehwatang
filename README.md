@@ -203,6 +203,13 @@
 
 </br>
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</br>
+
 ## 😎 Cool Stuff
 
 <div align="center">
