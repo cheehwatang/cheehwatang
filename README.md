@@ -1,9 +1,7 @@
 <div align="center">
-    <a href="https://cheehwatang.com/#gh-dark-mode-only">
-        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="Github Introduction" />
-    </a>
-    <a href="https://cheehwatang.com/#gh-light-mode-only">
-        <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif" alt="Github Introduction" />
+    <a href="https://cheehwatang.com/">
+        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif#gh-dark-mode-only" alt="Github Introduction" />
+        <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif#gh-light-mode-only" alt="Github Introduction" />
     </a>
 </div>
 
@@ -28,11 +26,9 @@
 - 🎧 Vibing to Tunes
 <div>
     &emsp;&emsp;&emsp;
-    <a href="https://open.spotify.com/user/12136120750#gh-dark-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
-    </a>
-    <a href="https://open.spotify.com/user/12136120750#gh-light-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
+    <a href="https://open.spotify.com/user/12136120750"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only#gh-dark-mode-only" alt="Current Spotify Song">
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only#gh-light-mode-only" alt="Current Spotify Song">
     </a>
 </div>
 
@@ -223,17 +219,13 @@
 
 <div align="center">
     <!-- SoundState Repo -->
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/weepotty/soundstate">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only" alt="SoundState Repo">
     </a>
     <!-- LeetCode Java Repo -->
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
+    <a href="https://github.com/cheehwatang/leetcode-java">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only" alt="LeetCode Java Repo">
-    </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
 </div>
@@ -266,12 +258,8 @@ Other        20 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
     <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     <!-- LeetCode Stats -->
     <a href="https://leetcode.com/cheehwatang">
         <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn" alt="Leetcode Stats">
