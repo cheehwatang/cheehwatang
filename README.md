@@ -1,6 +1,9 @@
 <div align="center">
-    <a href="https://cheehwatang.com/">
+    <a href="https://cheehwatang.com/#gh-dark-mode-only">
         <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="Github Introduction" />
+    </a>
+    <a href="https://cheehwatang.com/#gh-light-mode-only">
+        <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif" alt="Github Introduction" />
     </a>
 </div>
 
