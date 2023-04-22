@@ -1,12 +1,10 @@
 <div align="center">
     <a href="https://cheehwatang.com/">
-        <img src="https://res.cloudinary.com/dsx50recn/video/upload/c_fill,h_400,w_900/f_auto,fl_animated/e_loop/v1681724926/Portfolio%20Website/portfolio_homepage_video_vgzhkp.gif">
+        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="Github Introduction" />
     </a>
 </div>
 
 </br>
-
-<hr>
 
 ## 👨🏻‍💻 What's Happening?
 
