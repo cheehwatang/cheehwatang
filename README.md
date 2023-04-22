@@ -1,9 +1,7 @@
 <div align="center">
-    <a href="https://cheehwatang.com/#gh-dark-mode-only">
-        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif" alt="Github Introduction" />
-    </a>
-    <a href="https://cheehwatang.com/#gh-light-mode-only">
-        <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif" alt="Github Introduction" />
+    <a href="https://cheehwatang.com/">
+        <img src="https://user-images.githubusercontent.com/81938708/233782045-a96c0b5e-74a9-42d8-8f24-a21cd7749d8c.gif#gh-dark-mode-only" alt="Github Introduction" />
+        <img src="https://user-images.githubusercontent.com/81938708/233782804-3ef40087-bbaf-45ea-b1fe-d41a45b3047b.gif#gh-light-mode-only" alt="Github Introduction" />
     </a>
 </div>
 
@@ -28,11 +26,9 @@
 - 🎧 Vibing to Tunes
 <div>
     &emsp;&emsp;&emsp;
-    <a href="https://open.spotify.com/user/12136120750#gh-dark-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
-    </a>
-    <a href="https://open.spotify.com/user/12136120750#gh-light-mode-only"> 
-        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only" alt="Current Spotify Song">
+    <a href="https://open.spotify.com/user/12136120750"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only#gh-dark-mode-only" alt="Current Spotify Song">
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&rainbow=true#gh-light-mode-only#gh-light-mode-only" alt="Current Spotify Song">
     </a>
 </div>
 
@@ -42,13 +38,16 @@
 
 ### 👉 Programming Languages
 
-<p align="left"> 
+<p align="left">
     &emsp;
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
     &emsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
     &emsp;
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
     &emsp;
 </p>
 
@@ -56,17 +55,23 @@
 
 <p align="left"> 
     &emsp;
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5#gh-light-mode-only">
     &emsp;
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6#gh-light-mode-only">
     &emsp;
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-050505?style=for-the-badge&logo=sass#gh-dark-mode-only"/>
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=sass#gh-light-mode-only"/>
     &emsp;
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-050505?style=for-the-badge&logo=tailwindcss#gh-dark-mode-only"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-FFFFFF?style=for-the-badge&logo=tailwindcss#gh-light-mode-only"/>
     &emsp;
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-050505?style=for-the-badge&logo=bootstrap#gh-dark-mode-only"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap#gh-light-mode-only"/>
     &emsp;
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma#gh-dark-mode-only"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only"/>
     &emsp;
 </p>
 
@@ -74,11 +79,14 @@
 
 <p align="left">
     &emsp;
-    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-050505?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-dark-mode-only"/>
+    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-FFFFFF?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-light-mode-only"/>
     &emsp;
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img alt="React" src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react#gh-dark-mode-only"/>
+    <img alt="React" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react#gh-light-mode-only"/>
     &emsp;
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js#gh-dark-mode-only"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js#gh-light-mode-only"/>
     &emsp;
 </p>
 
@@ -86,15 +94,20 @@
 
 <p align="left">
     &emsp;
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql#gh-light-mode-only"/>
     &emsp;
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=003B57#gh-dark-mode-only"/>
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=003B57#gh-light-mode-only"/>
     &emsp;
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-050505?style=for-the-badge&logo=heroku&logoColor=430098#gh-dark-mode-only"/>
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=430098#gh-light-mode-only"/>
     &emsp;
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-050505?style=for-the-badge&logo=netlify#gh-dark-mode-only"/>
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify#gh-light-mode-only"/>
     &emsp;
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black#gh-light-mode-only"/>
     &emsp;
 </p>
 
@@ -102,13 +115,17 @@
 
 <p align="left">
     &emsp;
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git#gh-dark-mode-only"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git#gh-light-mode-only"/>
     &emsp;
-    <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-050505?style=for-the-badge&logo=githubactions#gh-dark-mode-only"/>
+    <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
     &emsp;
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-dark-mode-only"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-light-mode-only"/>
     &emsp;
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-050505?style=for-the-badge&logo=intellijidea&logoColor=white#gh-dark-mode-only"/>
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black#gh-light-mode-only"/>
     &emsp;
 </p>
 
@@ -160,14 +177,29 @@
                     </p>
                     </br>
                     <p>
-                        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>&nbsp;
-                        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
-                        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
-                        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>&nbsp;
-                        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;
-                        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>&nbsp;
-                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+                        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-050505?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-dark-mode-only"/>
+                        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-FFFFFF?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+                        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
+                        &nbsp;
+                        <img alt="Sass" src="https://img.shields.io/badge/Sass-050505?style=for-the-badge&logo=sass#gh-dark-mode-only"/>
+                        <img alt="Sass" src="https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=sass#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-050505?style=for-the-badge&logo=three.js&logoColor=white#gh-dark-mode-only"/>
+                        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=three.js&logoColor=black#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
+                        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-050505?style=for-the-badge&logo=heroku&logoColor=430098#gh-dark-mode-only"/>
+                        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=430098#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-050505?style=for-the-badge&logo=spotify#gh-dark-mode-only"/>
+                        <img alt="Spotify API" src="https://img.shields.io/badge/Spotify API-FFFFFF?style=for-the-badge&logo=spotify#gh-light-mode-only"/>
+                        &nbsp;
+                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-050505?style=for-the-badge&logo=openai&logoColor=412991#gh-dark-mode-only"/>
+                        <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI API-FFFFFF?style=for-the-badge&logo=openai&logoColor=412991#gh-light-mode-only"/>
                     </p>
                     </br>
                     <p>
@@ -187,17 +219,13 @@
 
 <div align="center">
     <!-- SoundState Repo -->
-    <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
+    <a href="https://github.com/weepotty/soundstate">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only" alt="SoundState Repo">
-    </a>
-    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only" alt="SoundState Repo">
     </a>
     <!-- LeetCode Java Repo -->
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
+    <a href="https://github.com/cheehwatang/leetcode-java">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only" alt="LeetCode Java Repo">
-    </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
 </div>
@@ -232,12 +260,8 @@ YAML         34 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
     <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     <!-- LeetCode Stats -->
     <a href="https://leetcode.com/cheehwatang">
         <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn" alt="Leetcode Stats">
@@ -261,63 +285,78 @@ YAML         34 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <ul>
     <li>
         <a href="https://shields.io/">
-            <img src="https://img.shields.io/badge/Shields.io-000000?style=flat-square&logo=shields.io&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Shields.io-050505?style=flat-square&logo=shields.io&logoColor=white#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/Shields.io-FFFFFF?style=flat-square&logo=shields.io&logoColor=black#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/tthn0/Spotify-Readme">
-            <img src="https://img.shields.io/badge/Spotify Now--Playing Widget-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spotify Now--Playing Widget-050505?style=flat-square&logo=spotify#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/Spotify Now--Playing Widget-FFFFFF?style=flat-square&logo=spotify#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/tthn0">
-            <img src="https://img.shields.io/badge/by-@tthn0-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@tthn0-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@tthn0-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/athul/waka-readme">
-            <img src="https://img.shields.io/badge/Wakatime Dev Metrics-000000?style=flat-square&logo=wakatime&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Wakatime Dev Metrics-050505?style=flat-square&logo=wakatime&logoColor=white#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/Wakatime Dev Metrics-FFFFFF?style=flat-square&logo=wakatime&logoColor=black#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/athul">
-            <img src="https://img.shields.io/badge/by-@athul-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@athul-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@athul-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/Platane/snk">
-            <img src="https://img.shields.io/badge/Github Contribution Snake Animation-3c7dd9?style=flat-square"/>
+            <img src="https://img.shields.io/badge/Github Contribution Snake Animation-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/Github Contribution Snake Animation-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/Platane">
-            <img src="https://img.shields.io/badge/by-@Platane-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@Platane-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@Platane-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-            <img src="https://img.shields.io/badge/Github Streak Stats Card-FB8C00?style=flat-square"/>
+            <img src="https://img.shields.io/badge/Github Streak Stats Card-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/Github Streak Stats Card-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/DenverCoder1">
-            <img src="https://img.shields.io/badge/by-@DenverCoder1-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@DenverCoder1-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@DenverCoder1-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-            <img src="https://img.shields.io/badge/LeetCode Stats Card-D946EF?style=flat-square"/>
+            <img src="https://img.shields.io/badge/LeetCode Stats Card-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/LeetCode Stats Card-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/JacobLinCool">
-            <img src="https://img.shields.io/badge/by-@JacobLinCool-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@JacobLinCool-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@JacobLinCool-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-            <img src="https://img.shields.io/badge/GitHub Profile 3D Contribution-008000?style=flat-square"/>
+            <img src="https://img.shields.io/badge/GitHub Profile 3D Contribution-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/GitHub Profile 3D Contribution-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/yoshi389111">
-            <img src="https://img.shields.io/badge/by-@yoshi389111-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@yoshi389111-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@yoshi389111-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://img.shields.io/badge/GitHub Stats Card-5094F0?style=flat-square"/>
+            <img src="https://img.shields.io/badge/GitHub Stats Card-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/GitHub Stats Card-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
         <a href="https://github.com/anuraghazra">
-            <img src="https://img.shields.io/badge/by-@anuraghazra-181717?style=flat-square"/>
+            <img src="https://img.shields.io/badge/by-@anuraghazra-050505?style=flat-square#gh-dark-mode-only"/>
+            <img src="https://img.shields.io/badge/by-@anuraghazra-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
 </ul>
