@@ -517,6 +517,48 @@ YAML         34 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
             <img src="https://img.shields.io/badge/by-@anuraghazra-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
+    <li>
+        <a href="https://github.com/NickeManarin/ScreenToGif#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/ScreenToGif-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/NickeManarin/ScreenToGif#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/ScreenToGif-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+        <a href="https://github.com/NickeManarin#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/by-@NickeManarin-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/NickeManarin#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/by-@NickeManarin-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/mattboldt/typed.js#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/Typed.js-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/mattboldt/typed.js#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/Typed.js-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+        <a href="https://github.com/mattboldt#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/by-@mattboldt-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/mattboldt#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/by-@mattboldt-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/matteobruni/tsparticles#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/TypeScript Particles-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/matteobruni/tsparticles#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/TypeScript Particles-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+        <a href="https://github.com/matteobruni#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/by-@matteobruni-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/matteobruni#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/by-@matteobruni-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+    </li>
 </ul>
 
 </br>
