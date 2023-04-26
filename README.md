@@ -50,6 +50,13 @@
     </a>
     &emsp;
     <a href="#gh-dark-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
     </a>
     <a href="#gh-light-mode-only">
@@ -57,10 +64,10 @@
     </a>
     &emsp;
     <a href="#gh-dark-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
     </a>
     <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
     </a>
     &emsp;
 </p>
@@ -109,6 +116,13 @@
     </a>
     <a href="#gh-light-mode-only">
         <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-050505?style=for-the-badge&logo=stimulus#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-FFFFFF?style=for-the-badge&logo=stimulus#gh-light-mode-only"/>
     </a>
     &emsp;
 </p>
@@ -569,4 +583,4 @@ TypeScript   1 hr 36 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </br>
 
-<img alt="wave animation" src="https://user-images.githubusercontent.com/81938708/234577969-e9797b99-5f13-4e94-a3b4-37919ad26926.svg">
+<img alt="wave animation" src="https://user-images.githubusercontent.com/81938708/234592310-5b85a24d-c8c4-4bc8-8538-5a675634349f.svg">
