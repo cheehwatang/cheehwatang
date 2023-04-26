@@ -7,8 +7,6 @@
     </a>
 </div>
 
-</br>
-
 ## 👨🏻‍💻 What's Happening?
 
 - 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
@@ -570,3 +568,5 @@ TypeScript   1 hr 36 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>Have a blast! 🚀</p>
 
 </br>
+
+<img alt="wave animation" src="https://user-images.githubusercontent.com/81938708/234577969-e9797b99-5f13-4e94-a3b4-37919ad26926.svg">
