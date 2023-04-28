@@ -53,7 +53,7 @@
         <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
     </a>
     <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-light-mode-only">
     </a>
     &emsp;
     <a href="#gh-dark-mode-only">
@@ -583,4 +583,6 @@ Markdown     1 hr 28 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 </br>
 
-<img alt="wave animation" src="https://user-images.githubusercontent.com/81938708/234592310-5b85a24d-c8c4-4bc8-8538-5a675634349f.svg">
+<img alt="wave animation" src="images/wave_animation.svg">
+
+<img alt="" src="images/themed-line.svg">
