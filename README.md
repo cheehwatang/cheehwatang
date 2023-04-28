@@ -36,6 +36,8 @@
 
 </br>
 
+<img alt="" src="images/rainbow-line.svg">
+
 ## 🧰 My Toolbox
 
 ### 👉 Programming Languages
@@ -228,6 +230,8 @@
     </a>
     &emsp;
 </p>
+
+<img alt="" src="images/rainbow-line.svg">
 
 </br>
 
