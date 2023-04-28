@@ -36,8 +36,6 @@
 
 </br>
 
-<img alt="" src="images/rainbow-line.svg">
-
 ## 🧰 My Toolbox
 
 ### 👉 Programming Languages
@@ -230,8 +228,6 @@
     </a>
     &emsp;
 </p>
-
-<img alt="" src="images/rainbow-line.svg">
 
 </br>
 
@@ -588,3 +584,5 @@ Markdown     1 hr 28 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </br>
 
 <img alt="wave animation" src="https://user-images.githubusercontent.com/81938708/234592310-5b85a24d-c8c4-4bc8-8538-5a675634349f.svg">
+
+<img alt="" src="images/themed-line.svg">
