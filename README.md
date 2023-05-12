@@ -15,13 +15,25 @@
 - 🐣 More Backstory <a href="https://cheehwatang.com/#about" alt="link to about page"><strong>Here</strong></a>
 <p></p>
 
-- 🌱 Learning **Node.js** & **Three.js**
+- 🌱 Learning **Node.js** & **Typescript**
 <p></p>
 
 - 🔍 Solving <a href="https://leetcode.com/cheehwatang/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
 <p></p>
 
 - 💻 Working on <a href="https://www.soundstate.live" alt="link to SoundState.live"><strong>SoundState</strong></a>
+
+- 🤔 Pondering on <a href="https://github.com/cheehwatang/github-readme-daily-quotes" alt="link to Github Readme Daily Quotes"><strong>Daily Quotes</strong></a>
+
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=light#gh-light-mode-only" alt="Daily Quotes">
+    </a>
+</div>
 
 - 🎧 Vibing to Tunes
 <div>
@@ -340,7 +352,54 @@
                     </br>
                 </div>	
             </td>
-            <td width="50%"></td>
+            <td width="50%">
+                <h3 align="center"><strong>Github Readme Daily Quotes</strong></h3>
+                </br>
+                <div align="center">
+                    <p>  
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+                            <img src="images/github-readme-daily-quotes/daily-quotes-logo.svg" alt="Github Readme Daily Quotes" height="100" />
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="https://readme-daily-quotes.vercel.app/api">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#gh-dark-mode-only">
+                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="SVG" src="https://img.shields.io/badge/SVG-050505?style=for-the-badge&logo=svg#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="SVG" src="https://img.shields.io/badge/SVG-FFFFFF?style=for-the-badge&logo=svg#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black#gh-light-mode-only"/>
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        Github Readme Daily Quotes is a daily quotes svg generator for your github profile.
+                    </p>
+                    </br>
+                </div>	</td>
         </tr>
 	</table>
 </div>
@@ -363,6 +422,13 @@
     </a>
     <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <!-- Github Readme Daily Quotes Repo -->
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=react#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=swift#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
     </a>
 </div>
 
