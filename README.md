@@ -352,7 +352,54 @@
                     </br>
                 </div>	
             </td>
-            <td width="50%"></td>
+            <td width="50%">
+                <h3 align="center"><strong>Github Readme Daily Quotes</strong></h3>
+                </br>
+                <div align="center">
+                    <p>  
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+                            <img src="images/github-readme-daily-quotes/daily-quotes-logo.svg" alt="Github Readme Daily Quotes" height="100" />
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        &nbsp;
+						<a href="https://readme-daily-quotes.vercel.app/api">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0&logo=googlechrome&logoColor=white"/>
+						</a>
+                    </p>
+                    </br>
+                    <p>
+                        <a href="#gh-dark-mode-only">
+                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="SVG" src="https://img.shields.io/badge/SVG-050505?style=for-the-badge&logo=svg#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="SVG" src="https://img.shields.io/badge/SVG-FFFFFF?style=for-the-badge&logo=svg#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black#gh-light-mode-only"/>
+                        </a>
+                    </p>
+                    </br>
+                    <p>
+                        Github Readme Daily Quotes is a daily quotes svg generator for your github profile.
+                    </p>
+                    </br>
+                </div>	</td>
         </tr>
 	</table>
 </div>
