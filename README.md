@@ -15,13 +15,25 @@
 - 🐣 More Backstory <a href="https://cheehwatang.com/#about" alt="link to about page"><strong>Here</strong></a>
 <p></p>
 
-- 🌱 Learning **Node.js** & **Three.js**
+- 🌱 Learning **Node.js** & **Typescript**
 <p></p>
 
 - 🔍 Solving <a href="https://leetcode.com/cheehwatang/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
 <p></p>
 
 - 💻 Working on <a href="https://www.soundstate.live" alt="link to SoundState.live"><strong>SoundState</strong></a>
+
+- 🤔 Pondering on <a href="https://github.com/cheehwatang/github-readme-daily-quotes" alt="link to Github Readme Daily Quotes"><strong>Daily Quotes</strong></a>
+
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=light#gh-light-mode-only" alt="Daily Quotes">
+    </a>
+</div>
 
 - 🎧 Vibing to Tunes
 <div>
