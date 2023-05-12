@@ -423,6 +423,13 @@
     <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
+    <!-- Github Readme Daily Quotes Repo -->
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=react#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=swift#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
 </div>
 
 </br>
