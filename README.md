@@ -399,7 +399,15 @@
                         Github Readme Daily Quotes is a daily quotes svg generator for your github profile.
                     </p>
                     </br>
-                </div>	</td>
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+                            <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+                        </a>
+                        <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+                            <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=light#gh-light-mode-only" alt="Daily Quotes">
+                        </a>
+                    </br>
+                </div>
+            </td>
         </tr>
 	</table>
 </div>
