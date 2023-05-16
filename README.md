@@ -7,6 +7,24 @@
     </a>
 </div>
 
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="https://cheehwatang.com/">
+        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-16F8ED?style=for-the-badge&logo=googlechrome&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://linkedin.com/in/cheehwatang/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/cheehwatang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://twitter.com/cheehwatang/">
+        <img alt="Twitter" src="https://img.shields.io/badge/cheehwatang-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    &emsp;
+</p>
+
 ## 👨🏻‍💻 What's Happening?
 
 - 👨‍🎓 I've just completed **Le Wagon's 9 weeks Web Development Bootcamp**.
@@ -237,26 +255,6 @@
     </a>
     <a href="#gh-light-mode-only">
         <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black#gh-light-mode-only"/>
-    </a>
-    &emsp;
-</p>
-
-</br>
-
-## 🙋‍♀️ Let's Connect
-
-<p align="left">
-    &emsp;
-    <a href="https://cheehwatang.com/">
-        <img alt="cheehwatang.com" src="https://img.shields.io/badge/cheehwatang.com-16F8ED?style=for-the-badge&logo=googlechrome&logoColor=black">
-    </a>
-    &emsp;
-    <a href="https://linkedin.com/in/cheehwatang/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/cheehwatang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &emsp;
-    <a href="https://twitter.com/cheehwatang/">
-        <img alt="Twitter" src="https://img.shields.io/badge/cheehwatang-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     &emsp;
 </p>
