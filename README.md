@@ -679,6 +679,8 @@ If you like their work, give a star to their repo and make your Github README sh
 
 </br>
 
-<img alt="wave animation" src="images/wave_animation.svg">
+<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
+<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
 
-<img alt="" src="images/themed-line.svg">
+<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
+<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
