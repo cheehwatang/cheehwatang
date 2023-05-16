@@ -49,9 +49,11 @@
         <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
     </a>
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
-        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=light#gh-light-mode-only" alt="Daily Quotes">
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
     </a>
 </div>
+
+</br>
 
 - 🎧 Vibing to Tunes
 <div>
@@ -83,7 +85,7 @@
         <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
     </a>
     <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
     </a>
     &emsp;
     <a href="#gh-dark-mode-only">
@@ -401,7 +403,7 @@
                             <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
                         </a>
                         <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
-                            <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=light#gh-light-mode-only" alt="Daily Quotes">
+                            <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
                         </a>
                     </br>
                 </div>
@@ -417,24 +419,24 @@
 <div align="center">
     <!-- SoundState Repo -->
     <a href="https://github.com/weepotty/soundstate#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=react#gh-dark-mode-only" alt="SoundState Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
     <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=swift#gh-light-mode-only" alt="SoundState Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=vue#gh-light-mode-only" alt="SoundState Repo">
     </a>
     <!-- LeetCode Java Repo -->
     <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=react#gh-dark-mode-only" alt="LeetCode Java Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
     </a>
     <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=swift#gh-light-mode-only" alt="LeetCode Java Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
     <!-- Github Readme Daily Quotes Repo -->
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=react#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
     </a>
     <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=swift#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
     </a>
 </div>
 
@@ -460,22 +462,32 @@ JSON             1 hr 19 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 </br>
 
-## 😎 Cool Stuff
+## 📈 My Stats
 
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-    <!-- Github Streak Stats -->
+    <!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=react&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=swift&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cheehwatang&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+    </a>
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=cheehwatang&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     </a>
     <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/cheehwatang">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn" alt="Leetcode Stats">
+    <a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+    </a>
+    <a href="https://leetcode.com/cheehwatang#gh-light-mode-only">
+        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
     </a>
     <!-- Github Contribution 3D Profile -->
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
@@ -486,10 +498,9 @@ JSON             1 hr 19 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 🌟 Credit & Thank You!
 
-<blockquote>
-    Appreciate the wonderful contributions from the community.</br>
-    If you like their work, give a star to their repo and make your Github README shines.
-</blockquote>
+Appreciate the wonderful contributions from the community.
+
+If you like their work, give a star to their repo and make your Github README shines.
 
 </br>
 
@@ -542,6 +553,20 @@ JSON             1 hr 19 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         </a>
         <a href="https://github.com/Platane#gh-light-mode-only">
             <img src="https://img.shields.io/badge/by-@Platane-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/Github Readme Activity Graph-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/Github Readme Activity Graph-FFFFFF?style=flat-square#gh-light-mode-only"/>
+        </a>
+        <a href="https://github.com/Ashutosh00710#gh-dark-mode-only">
+            <img src="https://img.shields.io/badge/by-@Ashutosh00710-050505?style=flat-square#gh-dark-mode-only"/>
+        </a>
+        <a href="https://github.com/Ashutosh00710#gh-light-mode-only">
+            <img src="https://img.shields.io/badge/by-@Ashutosh00710-FFFFFF?style=flat-square#gh-light-mode-only"/>
         </a>
     </li>
     <li>
