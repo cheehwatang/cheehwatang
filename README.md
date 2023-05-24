@@ -157,6 +157,13 @@
         <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-FFFFFF?style=for-the-badge&logo=stimulus#gh-light-mode-only"/>
     </a>
     &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="SVG" src="https://img.shields.io/badge/SVG-050505?style=for-the-badge&logo=svg#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="SVG" src="https://img.shields.io/badge/SVG-FFFFFF?style=for-the-badge&logo=svg#gh-light-mode-only"/>
+    </a>
+    &emsp;
 </p>
 
 ### 👉 Frameworks
@@ -243,6 +250,27 @@
     </a>
     <a href="#gh-light-mode-only">
         <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-050505?style=for-the-badge&logo=jest&logoColor=C21325#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325#gh-light-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-050505?style=for-the-badge&logo=eslint&logoColor=4B32C3#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-FFFFFF?style=for-the-badge&logo=eslint&logoColor=4B32C3#gh-light-mode-only"/>
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Prettier" src="https://img.shields.io/badge/Prettier-050505?style=for-the-badge&logo=prettier#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Prettier" src="https://img.shields.io/badge/Prettier-FFFFFF?style=for-the-badge&logo=prettier#gh-light-mode-only"/>
     </a>
     &emsp;
     <a href="#gh-dark-mode-only">
