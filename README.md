@@ -416,6 +416,27 @@
                         </a>
                         &nbsp;
                         <a href="#gh-dark-mode-only">
+                            <img alt="Axios" src="https://img.shields.io/badge/Axios-050505?style=for-the-badge&logo=axios&logoColor=5A29E4#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Axios" src="https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=5A29E4#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Jest" src="https://img.shields.io/badge/Jest-050505?style=for-the-badge&logo=jest&logoColor=C21325#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Jest" src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
+                            <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-050505?style=for-the-badge&logo=githubactions#gh-dark-mode-only"/>
+                        </a>
+                        <a href="#gh-light-mode-only">
+                            <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
+                        </a>
+                        &nbsp;
+                        <a href="#gh-dark-mode-only">
                             <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
                         </a>
                         <a href="#gh-light-mode-only">
