@@ -519,10 +519,10 @@ JSON         1 hr 34 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
     <!-- Github Activity Graph -->
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cheehwatang&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
     </a>
     <!-- Github Streak Stats -->
     <a href="#gh-dark-mode-only">
