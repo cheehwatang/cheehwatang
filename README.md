@@ -70,9 +70,9 @@
 
 ## 🧰 My Toolbox
 
-### 👉 Programming Languages
+</br>
 
-<p align="left">
+<p align="center">
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
@@ -104,9 +104,9 @@
     &emsp;
 </p>
 
-### 👉 Frontend Development
+</br>
 
-<p align="left"> 
+<p align="center">
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
@@ -166,9 +166,9 @@
     &emsp;
 </p>
 
-### 👉 Frameworks
+</br>
 
-<p align="left">
+<p align="center">
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-050505?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-dark-mode-only"/>
@@ -193,9 +193,9 @@
     &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
+</br>
 
-<p align="left">
+<p align="center">
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
@@ -234,9 +234,9 @@
     &emsp;
 </p>
 
-### 👉 Software & Tools
+</br>
 
-<p align="left">
+<p align="center">
     &emsp;
     <a href="#gh-dark-mode-only">
         <img alt="Git" src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git#gh-dark-mode-only"/>
